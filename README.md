@@ -1,5 +1,5 @@
 # UnseeAnObjectfromaVideo
-In the report, we proposed a novel approach for object removals with the techniques of object
+we propose a novel approach for object removals with the techniques of object
 detection, image inpainting and temporal loss optimization. To implement a deep neural
 network-based algorithm to detect an object, remove it and fill the gap with a smooth
 background in a video. The ability of the DNNs and its latest flavor, GANs (Generative
